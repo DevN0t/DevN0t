@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devn0t&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devn0t&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devn0t)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
  
