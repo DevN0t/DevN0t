@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffffsize=50&center=true&vCenter=true&width=1000&lines=Hello,+Hi,+I+am+Not;I+am+19+years+old;Born+in+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=50&center=true&vCenter=true&width=1000&lines=Hello,+Hi,+I+am+Not;I+am+19+years+old;Born+in+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <p align="center">Ei, Caynã aqui! Sou programador backend apaixonado por transformar ideias em funcionalidades robustas. Explorando o mundo do código para criar soluções poderosas.&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
