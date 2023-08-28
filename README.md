@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://cdn.discordapp.com/attachments/1046903091561234545/1145847722973331466/text_2.gif" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://cdn.discordapp.com/attachments/1046903091561234545/1145848085260537907/result.gif" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Ei, Caynã aqui! Sou programador backend apaixonado por transformar ideias em funcionalidades robustas. Explorando o mundo do código para criar soluções poderosas.&nbsp;
