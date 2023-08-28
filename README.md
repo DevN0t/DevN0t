@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+i+am+Not;A+Backend+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+i+am+Not;A+Backend+Developer)](https://git.io/typing-svg)
 <p align="center">Ei, Caynã aqui! Sou programador backend apaixonado por transformar ideias em funcionalidades robustas. Explorando o mundo do código para criar soluções poderosas.&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
