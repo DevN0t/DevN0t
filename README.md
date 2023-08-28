@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#ffff, width:1000px"></div>
+<div align="center" style="background-color:#ffff, width:1000px, height:200px"></div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=50&center=true&vCenter=true&width=1000&lines=Hello,+Hi,+I+am+Not;I+am+19+years+old;Born+in+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
