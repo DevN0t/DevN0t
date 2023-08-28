@@ -1,3 +1,5 @@
+<div align="center" style="background-color:#ffff, width:1000px"></div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=50&center=true&vCenter=true&width=1000&lines=Hello,+Hi,+I+am+Not;I+am+19+years+old;Born+in+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">Ei, Caynã aqui! Sou programador backend apaixonado por transformar ideias em funcionalidades robustas. Explorando o mundo do código para criar soluções poderosas.&nbsp;
