@@ -1,6 +1,6 @@
 <div align="center">
- <img width=1000px height=200px src="https://cdn.discordapp.com/attachments/1038658735314321419/1145903089832968303/java.png#gh-light-mode-only"/>
- <img width=1000px height=200px src="https://cdn.discordapp.com/attachments/1038658735314321419/1145921572608163840/java_dark.png#gh-dark-mode-only"/>
+ <img width=1000px height=200px src="https://cdn.discordapp.com/attachments/1038658735314321419/1145903089832968303/java.png"#gh-light-mode-only/>
+ <img width=1000px height=200px src="https://cdn.discordapp.com/attachments/1038658735314321419/1145921572608163840/java_dark.png"#gh-dark-mode-only/>
 </div>
 
 
