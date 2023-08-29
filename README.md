@@ -2,13 +2,9 @@
  <img width=1000px height=200px src="https://cdn.discordapp.com/attachments/1046903091561234545/1145866733811417108/Untitled_design.png"/>
 </div>
 
-
--
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=000000&background=FFFFFF&size=50&center=true&vCenter=true&width=1000&height=200&lines=Hello,+Hi,+I+am+Not;I+am+19+years+old;Born+in+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center">Ei, Caynã aqui! Sou programador backend apaixonado por transformar ideias em funcionalidades robustas. Explorando o mundo do código para criar soluções poderosas.&nbsp;
+<p align="center" style="fonte-size:30px">Ei, Caynã aqui! Sou programador backend apaixonado por transformar ideias em funcionalidades robustas. Explorando o mundo do código para criar soluções poderosas.&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DevN0t&theme=white&mode=weekly" />
