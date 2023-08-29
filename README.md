@@ -1,15 +1,9 @@
 
-<div align="center">
+
 
   [![Logo Light](https://cdn.discordapp.com/attachments/1038658735314321419/1145903089832968303/java.png#gh-light-mode-only)]
 
-</div>
-
-<div align="center">
-
   [![Logo Dark](https://cdn.discordapp.com/attachments/1038658735314321419/1145921572608163840/java_dark.png#gh-dark-mode-only)]
-
-</div>
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=1f2328&background=ffff&size=50&center=true&vCenter=true&width=1000&height=200&lines=Hello,+I+am+Not;I+am+19+years+old;Born+in+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg#gh-light-mode-only)
