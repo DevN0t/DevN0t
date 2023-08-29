@@ -1,13 +1,13 @@
 
 <div align="center">
 
-  ![Logo Light](https://cdn.discordapp.com/attachments/1038658735314321419/1145903089832968303/java.png#gh-light-mode-only)
+  [![Logo Light](https://cdn.discordapp.com/attachments/1038658735314321419/1145903089832968303/java.png#gh-light-mode-only)]
 
 </div>
 
 <div align="center">
 
-  ![Logo Dark](https://cdn.discordapp.com/attachments/1038658735314321419/1145921572608163840/java_dark.png#gh-dark-mode-only)
+  [![Logo Dark](https://cdn.discordapp.com/attachments/1038658735314321419/1145921572608163840/java_dark.png#gh-dark-mode-only)]
 
 </div>
 
