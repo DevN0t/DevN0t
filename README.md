@@ -2,7 +2,7 @@
 
 
 ![Logo_Light](./java_light.png#gh-light-mode-only)
-![Logo_Dark](./java_dark.png#gh-dark-mode-only)
+![Logo_Dark](./java_2#gh-dark-mode-only)
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=1f2328&background=ffff&size=50&center=true&vCenter=true&width=1000&height=200&lines=Hello,+I+am+Not;I+am+19+years+old;Born+in+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg#gh-light-mode-only)
