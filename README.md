@@ -1,5 +1,5 @@
 <div align="center">
- <img width=1000px height=200px src="https://cdn.discordapp.com/attachments/1038658735314321419/1145902732536975360/java.png"/>
+ <img width=1000px height=200px src="https://cdn.discordapp.com/attachments/1038658735314321419/1145903089832968303/java.png"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=000000&background=FFFFFF&size=50&center=true&vCenter=true&width=1000&height=200&lines=Hello,+Hi,+I+am+Not;I+am+19+years+old;Born+in+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
