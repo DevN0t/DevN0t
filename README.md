@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
 
-<img src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://miro.medium.com/v2/resize:fit:502/0*8Au6QYi7tfdafaBQ.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Databases:
 
