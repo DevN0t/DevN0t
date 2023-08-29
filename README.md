@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
 
-<img src="https://cdn.discordapp.com/attachments/1046903091561234545/1145908216589471844/4c3b0a939d53127a02cb6ad2c55b4971.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://cdn.discordapp.com/attachments/1046903091561234545/1145908614872182875/0706ac69f9dc4c16393dbd7d9e1d641d.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Databases:
 
