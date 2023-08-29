@@ -3,7 +3,9 @@
 </div>
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=1f2328&background=ffff&size=50&center=true&vCenter=true&width=1000&height=200&lines=Hello,+I+am+Not;I+am+19+years+old;Born+in+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=1f2328&background=ffff&size=50&center=true&vCenter=true&width=1000&height=200&lines=Hello,+I+am+Not;I+am+19+years+old;Born+in+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg#gh-light-mode-only)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=ffff&background=0d1117&size=50&center=true&vCenter=true&width=1000&height=200&lines=Hello,+I+am+Not;I+am+19+years+old;Born+in+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg#gh-dark-mode-only)
+
  
 
  
