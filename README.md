@@ -58,4 +58,3 @@
 </div>&nbsp;&nbsp;
   
   
- <img width=1000px height=200px src="https://cdn.discordapp.com/attachments/1046903091561234545/1145866733811417108/Untitled_design.png"/>
