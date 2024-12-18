@@ -35,7 +35,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
 
-<img src="https://img1.picmix.com/output/stamp/normal/9/3/8/2/1652839_4669e.gif" min-width="310px" max-width="310px" width="310px" align="right" alt="Computador iuriCode">
 
 #### Databases:
 
