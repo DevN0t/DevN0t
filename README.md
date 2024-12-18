@@ -10,13 +10,13 @@
 
  
 
+<img src="https://img1.picmix.com/output/stamp/normal/9/3/8/2/1652839_4669e.gif" min-width="310px" max-width="310px" width="310px" align="right" alt="Computador iuriCode">
  
 
 
 <h3 align="center" style="font-size:60px; margin-bottom:100px;">Ei, Caynã aqui! Sou programador backend apaixonado por transformar ideias em funcionalidades robustas.<br> Explorando o mundo do código para criar soluções poderosas.&nbsp;</h3>
 
 <div  align="center" style="margin-bottom:200px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DevN0t&theme=white&mode=monthly" />
  </div>
 
  
