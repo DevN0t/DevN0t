@@ -14,7 +14,7 @@
  
 
 
-<h3 align="center" style="font-size:60px; margin-bottom:100px;">Ei, Caynã aqui! Sou programador backend focado em transformar ideias em funcionalidades robustas.<br> Explorando o mundo do código para criar soluções poderosas.&nbsp;</h3>
+<h3 align="left" style="font-size:60px; margin-bottom:100px;">Ei, Caynã aqui! Sou programador backend focado em transformar ideias em funcionalidades robustas.<br> Explorando o mundo do código para criar soluções poderosas.&nbsp;</h3>
 
 <div  align="center" style="margin-bottom:200px">
  </div>
